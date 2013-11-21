@@ -1,7 +1,7 @@
 The GraphJSON Format Specification
 
-Authors:	Huston Hedinger ([GraphAlchemist](http://www.graphAlchemist.com) 
-          Toby Craig      ([GraphAlchemist](http://www.graphAlchemist.com)
+Authors:	Huston Hedinger ([GraphAlchemist](http://www.graphAlchemist.com))
+            Toby Craig ([GraphAlchemist](http://www.graphAlchemist.com))
           [YOUR_NAME_HERE - Want to contribute?]
 Revision:	0.1
 Date:	1 November 2013
