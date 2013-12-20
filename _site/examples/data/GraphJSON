@@ -1,0 +1,40 @@
+{"nodes":
+    [{
+        "_id": 10,
+        "data": {"properties": {},
+                 "labels": {},
+                 "something else": {}, 
+        "nodeStyle": {
+            "caption": "some name"
+            },
+        },
+    }],
+ "edges":
+    [{
+        "_sid/_tid": 10,
+        "data": {"properties":{},
+                 "type": "ACTED_IN"
+                 "directed": "true"},
+        "edgeStyle": {
+            "caption": "something"
+            }
+        }],
+"style": {
+        "node": {"stroke":
+                 "strokeWidth":
+                 "size":
+                 "fill":}
+        "edge": {"strokeWidth":
+                 "stroke":
+                 "straight":
+                 "arrows": ...}
+        "node.class":
+        "edge.class":
+        "node.properties.age.18" : {}}
+        "graph": {
+            "background": 
+            "height":
+            "width":
+            "bidirectional": false
+        }
+}
