@@ -1,0 +1,106 @@
+body {
+    padding-top: 60px;
+    background-color: #242424;
+}
+/*
+@media (min-width: 992px) {
+    .container {
+        width: 70%;
+    }
+}
+*/
+
+.container {
+    max-width: 60%;
+    margin: auto;
+}
+
+.body-container {
+    background: #FFF;
+    border-width: 20px;
+    border-color: aqua;
+    border: solid;
+    border-style: inherit;
+    border-radius: 52px;
+    padding: 40px;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.maruku_toc {
+    font-size: 18px;
+}
+
+.brand {
+    font-size: 18px;
+    color: rgba(51, 153, 255);
+}
+
+.navbar-inverse {
+    background-color: #242424;
+    border-color: rgba(51, 153, 255, 0.4);
+    border-bottom-width: 4px;
+    padding: 10px;
+}
+
+.partials {
+    margin-top: 15px;
+}
+
+a {
+    color: #54B0FF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #E6E6E6;
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.25em;
+    line-height: 1.5em;
+    color: #525252;
+}
+
+h1 {
+
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h1[id]:before,
+h2[id]:before,
+h3[id]:before,
+h4[id]:before,
+h5[id]:before,
+h6[id]:before {
+    content:"";
+    display:block;
+    height: 75px;
+    margin: -30px 0 0;
+}
+
+h1[id],
+h2[id],
+h3[id],
+h4[id],
+h5[id],
+h6[id] {
+    margin-top: 10px;
+}
+
+.example-small {
+    max-height: 300px;
+}
+
+hr {
+    display: none;
+}

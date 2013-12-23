@@ -1,0 +1,10 @@
+name: "GraphJSON.org"
+description: "A JSON specificaiton format for Graphs - Graphs for everyone!"
+
+
+
+kramdown:
+  input: GFM
+  auto_ids: false
+
+pygments: true
