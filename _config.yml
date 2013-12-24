@@ -2,7 +2,6 @@ name: "GraphJSON.org"
 description: "A JSON specificaiton format for Graphs - Graphs for everyone!"
 baseurl: "/GraphJSON"
 
-
 kramdown:
   input: GFM
   auto_ids: false
