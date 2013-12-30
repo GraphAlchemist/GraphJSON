@@ -1,6 +1,7 @@
 body {
     padding-top: 60px;
     background-color: #242424;
+    font-weight: 200;
 }
 /*
 @media (min-width: 992px) {
@@ -94,6 +95,7 @@ h3[id],
 h4[id],
 h5[id],
 h6[id] {
+    font-weight: 200;
     margin-top: 10px;
 }
 

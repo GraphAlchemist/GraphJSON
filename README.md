@@ -7,3 +7,9 @@ There are a number of different graph file formats - GEXF, GDF, GML, .csv, Pajek
 
 See GraphJSON in action [here](http://graphjson.io/)
 
+This repo deployed at [www.GraphJSON.org].
+
+Notes:
+`jekyll serve --baseurl ''`
+to view site locally with styles.
+

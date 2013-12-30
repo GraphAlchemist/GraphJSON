@@ -1,6 +1,6 @@
 name: "GraphJSON.org"
 description: "A JSON specificaiton format for Graphs - Graphs for everyone!"
-baseurl: "/GraphJSON"
+baseurl: "http://graphalchemist.github.io/GraphJSON"
 
 kramdown:
   input: GFM
