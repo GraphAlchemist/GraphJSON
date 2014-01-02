@@ -10,6 +10,6 @@ See GraphJSON in action [here](http://graphjson.io/)
 This repo deployed at [www.GraphJSON.org].
 
 Notes:
-`jekyll serve --baseurl ''`
+`jekyll serve --baseurl '' --watch`
 to view site locally with styles.
 
